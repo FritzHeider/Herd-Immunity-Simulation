@@ -56,7 +56,7 @@ Set up your local clone of this project repo on your computer.
 `git remote set-url origin https://github.com/<your-username>/Herd-Immunity-Simulation.git`
 
 1. **Push your local repo** to your *remote* GitHub repo to link your `master` branch to your `origin` remote:
-`git push -u origin master`
+`git remote set-url origin https://github.com/<your-username>/Herd-Immunity-Simulation.git
 
 1. **Commit your code** to your local repo frequently (each time you've made meaningful progress).
 
