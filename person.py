@@ -15,7 +15,7 @@ class Person(object):
         self.infection. Otherwise, self.infection should be set to None.
         '''
 
-        
+
         self._id = None  # int
         self.is_alive = True  # boolean
         self.is_vaccinated = None  # boolean
@@ -27,6 +27,10 @@ class Person(object):
         If Person survives, they become vaccinated and they have no infection.
         Return a boolean value indicating whether they survived the infection.
         '''
+        survive = randint(0, 10)
+        if self.infection == True & virus.mortality_rate > survive:
+            self.is_alive == False
+        else:
 
         # Only called if infection attribute is not None.
         # TODO:  Finish this method. Should return a Boolean
@@ -45,10 +49,14 @@ def test_vacc_person_instantiation():
 
 def test_not_vacc_person_instantiation():
     person = Person(2, False)
+    assert person._id == 2
+    assert person.is_alive is True
+    assert person.is_vaccinated is False
+    assert person.infection is None
+
     # TODO: complete your own assert statements that test
     # the values at each attribute
-    # assert ...
-    pass
+    # assert ...  ********FRESH WORK DONE HERE
 
 
 def test_sick_person_instantiation():
@@ -56,6 +64,13 @@ def test_sick_person_instantiation():
     virus = Virus("Dysentery", 0.7, 0.2)
     # Create a Person object and give them the virus infection
     person = Person(3, False, virus)
+    assert person._id == 3
+    assert person.is_alive is True
+    assert person.is_vaccinated is False
+    assert person.infection is "Dysentery"
+    assert virus.mortality_rate == 0.2
+    assert virus.name = "Dysentery"
+    assert virus.repro_rate = 0.7
     # TODO: complete your own assert statements that test
     # the values at each attribute
     # assert ...

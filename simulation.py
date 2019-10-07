@@ -5,15 +5,9 @@ from logger import Logger
 from virus import Virus
 
 
-class Simulation(object):
-    ''' Main class that will run the herd immunity simulation program.
-    Expects initialization parameters passed as command line arguments when file is run.
 
-    Simulates the spread of a virus through a given population.  The percentage of the
-    population that are vaccinated, the size of the population, and the amount of initially
-    infected people in a population are all variables that can be set when the program is run.
-    '''
-    def __init__(self, pop_size, vacc_percentage, initial_infected=1, virus):
+class Simulation(object):
+    def __init__(self, pop_size, vacc_percentage, virus, initial_infected=1):
         ''' Logger object logger records all events during the simulation.
         Population represents all Persons in the population.
         The next_person_id is the next available id for all created Persons,
@@ -94,26 +88,17 @@ class Simulation(object):
         time_step_counter = 0
         should_continue = None
 
-        
+        while should_continue:
         # TODO: for every iteration of this loop, call self.time_step() to compute another
         # round of this simulation.
-        print(f'The simulation has ended after {time_step_counter} turns.'.format(time_step_counter))
-        pass
+            print(f'The simulation has ended after {time_step_counter} turns.'.format(time_step_counter))
 
-    def time_step(self):
-        ''' This method should contain all the logic for computing one time step
-        in the simulation.
 
-        This includes:
-            1. 100 total interactions with a randon person for each infected person
-                in the population
-            2. If the person is dead, grab another random person from the population.
-                Since we don't interact with dead people, this does not count as an interaction.
-            3. Otherwise call simulation.interaction(person, random_person) and
-                increment interaction counter by 1.
-            '''
+
+        def time_step(self):
+    #
         # TODO: Finish this method.
-        pass
+            pass
 
     def interaction(self, person, random_person):
         '''This method should be called any time two living people are selected for an
