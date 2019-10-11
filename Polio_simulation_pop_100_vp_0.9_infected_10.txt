@@ -1,0 +1,1012 @@
+100	0.9	Polio	0.7	0.25
+90 didn't infect 81 because already vaccinated 
+90 didn't infect 94 
+90 didn't infect 28 because already vaccinated 
+90 didn't infect 13 
+90 didn't infect 69 because already vaccinated 
+90 didn't infect 54 because already vaccinated 
+90 didn't infect 11 because already vaccinated 
+90 didn't infect 64 
+90 didn't infect 71 because already vaccinated 
+90 didn't infect 83 
+90 didn't infect 53 because already vaccinated 
+90 didn't infect 75 
+90 didn't infect 0 
+90 didn't infect 20 
+90 didn't infect 43 
+90 didn't infect 27 
+90 didn't infect 43 because already vaccinated 
+90 didn't infect 48 because already vaccinated 
+90 didn't infect 44 
+90 didn't infect 5 
+90 didn't infect 68 because already vaccinated 
+90 didn't infect 48 because already vaccinated 
+90 didn't infect 37 
+90 didn't infect 79 
+90 didn't infect 46 
+90 didn't infect 90 because already sick 
+90 didn't infect 84 because already vaccinated 
+90 didn't infect 37 
+90 didn't infect 29 
+90 didn't infect 48 
+90 didn't infect 81 
+90 didn't infect 20 
+90 didn't infect 26 
+90 didn't infect 89 
+90 didn't infect 82 because already vaccinated 
+90 didn't infect 81 because already vaccinated 
+90 didn't infect 93 because already sick 
+90 didn't infect 59 
+90 didn't infect 81 
+90 didn't infect 28 
+90 didn't infect 98 
+90 didn't infect 29 
+90 didn't infect 40 
+90 didn't infect 8 because already vaccinated 
+90 didn't infect 72 
+90 didn't infect 40 because already vaccinated 
+90 didn't infect 63 
+90 didn't infect 82 
+90 didn't infect 33 because already vaccinated 
+90 didn't infect 95 
+90 didn't infect 33 
+90 didn't infect 54 
+90 didn't infect 51 
+90 didn't infect 17 
+90 didn't infect 11 
+90 didn't infect 14 because already vaccinated 
+90 didn't infect 20 
+90 didn't infect 54 
+90 didn't infect 49 
+90 didn't infect 59 
+90 didn't infect 70 
+90 didn't infect 1 
+90 didn't infect 14 
+90 didn't infect 68 
+90 didn't infect 98 
+90 didn't infect 14 
+90 didn't infect 20 
+90 didn't infect 92 
+90 didn't infect 33 
+90 didn't infect 97 because already sick 
+90 didn't infect 13 
+90 didn't infect 38 
+90 didn't infect 64 
+90 didn't infect 19 
+90 didn't infect 20 
+90 didn't infect 99 
+90 didn't infect 0 
+90 didn't infect 62 because already vaccinated 
+90 didn't infect 46 
+90 didn't infect 39 because already vaccinated 
+90 didn't infect 30 
+90 didn't infect 10 because already vaccinated 
+90 didn't infect 62 
+90 didn't infect 97 
+90 didn't infect 16 because already vaccinated 
+90 didn't infect 60 
+90 didn't infect 21 
+90 didn't infect 77 
+90 didn't infect 27 
+90 didn't infect 96 
+90 didn't infect 25 
+90 didn't infect 51 
+90 didn't infect 83 
+90 didn't infect 66 
+90 didn't infect 31 because already vaccinated 
+90 didn't infect 43 because already vaccinated 
+90 didn't infect 70 because already vaccinated 
+90 didn't infect 28 because already vaccinated 
+90 didn't infect 90 
+90 didn't infect 29 because already vaccinated 
+91 didn't infect 4 
+91 didn't infect 9 
+91 didn't infect 35 
+91 didn't infect 27 
+91 didn't infect 92 
+91 didn't infect 73 
+91 didn't infect 31 
+91 didn't infect 52 because already vaccinated 
+91 didn't infect 12 
+91 didn't infect 45 
+91 didn't infect 59 
+91 didn't infect 6 
+91 didn't infect 82 because already vaccinated 
+91 didn't infect 51 
+91 didn't infect 13 because already vaccinated 
+91 didn't infect 24 
+91 didn't infect 17 
+91 didn't infect 35 
+91 didn't infect 9 
+91 didn't infect 70 because already vaccinated 
+91 didn't infect 83 
+91 didn't infect 1 
+91 didn't infect 96 
+91 didn't infect 21 
+91 didn't infect 61 because already vaccinated 
+91 didn't infect 51 
+91 didn't infect 21 
+91 didn't infect 49 
+91 didn't infect 58 
+91 didn't infect 89 
+91 didn't infect 71 
+91 didn't infect 62 because already vaccinated 
+91 didn't infect 37 because already vaccinated 
+91 didn't infect 7 
+91 didn't infect 69 because already vaccinated 
+91 didn't infect 40 because already vaccinated 
+91 didn't infect 74 
+91 didn't infect 67 because already vaccinated 
+91 didn't infect 65 because already vaccinated 
+91 didn't infect 23 because already vaccinated 
+91 didn't infect 8 
+91 didn't infect 30 
+91 didn't infect 72 because already vaccinated 
+91 didn't infect 76 because already vaccinated 
+91 didn't infect 10 
+91 didn't infect 74 
+91 didn't infect 40 
+91 didn't infect 26 
+91 didn't infect 40 because already vaccinated 
+91 didn't infect 50 because already vaccinated 
+91 didn't infect 82 
+91 didn't infect 40 
+91 didn't infect 9 because already vaccinated 
+91 didn't infect 79 
+91 didn't infect 12 because already vaccinated 
+91 didn't infect 27 
+91 didn't infect 16 
+91 didn't infect 8 
+91 didn't infect 47 
+91 didn't infect 56 
+91 didn't infect 90 
+91 didn't infect 83 
+91 didn't infect 85 
+91 didn't infect 38 
+91 didn't infect 13 
+91 didn't infect 17 
+91 didn't infect 13 
+91 didn't infect 19 
+91 didn't infect 77 because already vaccinated 
+91 didn't infect 43 because already vaccinated 
+91 didn't infect 81 
+91 didn't infect 64 
+91 didn't infect 6 because already vaccinated 
+91 didn't infect 54 
+91 didn't infect 5 because already vaccinated 
+91 didn't infect 98 because already sick 
+91 didn't infect 33 because already vaccinated 
+91 didn't infect 56 
+91 didn't infect 54 
+91 didn't infect 14 because already vaccinated 
+91 didn't infect 88 
+91 didn't infect 69 because already vaccinated 
+91 didn't infect 47 
+91 didn't infect 18 
+91 didn't infect 5 
+91 didn't infect 5 
+91 didn't infect 26 
+91 didn't infect 85 because already vaccinated 
+91 didn't infect 99 
+91 didn't infect 52 
+91 didn't infect 95 because already sick 
+91 didn't infect 30 
+91 didn't infect 22 
+91 didn't infect 3 because already vaccinated 
+91 didn't infect 42 
+91 didn't infect 52 
+91 didn't infect 94 
+91 didn't infect 34 because already vaccinated 
+91 didn't infect 89 because already vaccinated 
+91 didn't infect 4 
+92 didn't infect 28 because already vaccinated 
+92 didn't infect 58 
+92 didn't infect 29 because already vaccinated 
+92 didn't infect 84 because already vaccinated 
+92 didn't infect 42 
+92 didn't infect 8 
+92 didn't infect 35 
+92 didn't infect 65 
+92 didn't infect 68 
+92 didn't infect 3 because already vaccinated 
+92 didn't infect 33 because already vaccinated 
+92 didn't infect 33 because already vaccinated 
+92 didn't infect 76 
+92 didn't infect 93 
+92 didn't infect 55 
+92 didn't infect 65 because already vaccinated 
+92 didn't infect 73 because already vaccinated 
+92 didn't infect 5 
+92 didn't infect 0 
+92 didn't infect 68 
+92 didn't infect 94 
+92 didn't infect 25 
+92 didn't infect 8 
+92 didn't infect 42 
+92 didn't infect 84 
+92 didn't infect 92 
+92 didn't infect 64 
+92 didn't infect 52 
+92 didn't infect 89 
+92 didn't infect 16 because already vaccinated 
+92 didn't infect 85 
+92 didn't infect 86 
+92 didn't infect 22 
+92 didn't infect 38 
+92 didn't infect 0 
+92 didn't infect 26 
+92 didn't infect 74 
+92 didn't infect 41 
+92 didn't infect 56 
+92 didn't infect 65 
+92 didn't infect 94 because already sick 
+92 didn't infect 10 
+92 didn't infect 84 
+92 didn't infect 42 because already vaccinated 
+92 didn't infect 96 because already sick 
+92 didn't infect 39 because already vaccinated 
+92 didn't infect 25 because already vaccinated 
+92 didn't infect 5 because already vaccinated 
+92 didn't infect 60 
+92 didn't infect 98 because already sick 
+92 didn't infect 53 
+92 didn't infect 73 because already vaccinated 
+92 didn't infect 89 
+92 didn't infect 51 because already vaccinated 
+92 didn't infect 83 
+92 didn't infect 96 
+92 didn't infect 13 
+92 didn't infect 28 because already vaccinated 
+92 didn't infect 89 
+92 didn't infect 6 
+92 didn't infect 15 
+92 didn't infect 59 
+92 didn't infect 71 
+92 didn't infect 96 
+92 didn't infect 78 
+92 didn't infect 64 
+92 didn't infect 70 
+92 didn't infect 20 
+92 didn't infect 60 
+92 didn't infect 96 because already sick 
+92 didn't infect 81 
+92 didn't infect 99 
+92 didn't infect 80 because already vaccinated 
+92 didn't infect 56 because already vaccinated 
+92 didn't infect 36 because already vaccinated 
+92 didn't infect 42 
+92 didn't infect 69 because already vaccinated 
+92 didn't infect 19 because already vaccinated 
+92 didn't infect 88 because already vaccinated 
+92 didn't infect 27 because already vaccinated 
+92 didn't infect 52 
+92 didn't infect 59 
+92 didn't infect 26 
+92 didn't infect 49 
+92 didn't infect 74 
+92 didn't infect 2 
+92 didn't infect 97 
+92 didn't infect 61 because already vaccinated 
+92 didn't infect 45 
+92 didn't infect 49 
+92 didn't infect 53 
+92 didn't infect 94 
+92 didn't infect 77 
+92 didn't infect 62 because already vaccinated 
+92 didn't infect 55 
+92 didn't infect 49 
+92 didn't infect 86 
+92 didn't infect 92 because already sick 
+92 didn't infect 59 
+92 didn't infect 79 
+93 didn't infect 50 
+93 didn't infect 84 because already vaccinated 
+93 didn't infect 82 
+93 didn't infect 59 because already vaccinated 
+93 didn't infect 33 
+93 didn't infect 27 
+93 didn't infect 43 
+93 didn't infect 48 
+93 didn't infect 53 
+93 didn't infect 10 
+93 didn't infect 95 
+93 didn't infect 44 because already vaccinated 
+93 didn't infect 8 
+93 didn't infect 83 because already vaccinated 
+93 didn't infect 3 
+93 didn't infect 25 
+93 didn't infect 79 because already vaccinated 
+93 didn't infect 16 
+93 didn't infect 14 
+93 didn't infect 27 
+93 didn't infect 32 
+93 didn't infect 21 
+93 didn't infect 95 
+93 didn't infect 99 
+93 didn't infect 39 because already vaccinated 
+93 didn't infect 3 
+93 didn't infect 73 
+93 didn't infect 48 
+93 didn't infect 91 because already sick 
+93 didn't infect 75 
+93 didn't infect 80 because already vaccinated 
+93 didn't infect 89 
+93 didn't infect 87 
+93 didn't infect 15 
+93 didn't infect 72 
+93 didn't infect 44 
+93 didn't infect 84 
+93 didn't infect 64 
+93 didn't infect 1 
+93 didn't infect 62 because already vaccinated 
+93 didn't infect 46 
+93 didn't infect 58 
+93 didn't infect 55 because already vaccinated 
+93 didn't infect 66 
+93 didn't infect 34 
+93 didn't infect 68 
+93 didn't infect 59 
+93 didn't infect 93 
+93 didn't infect 41 
+93 didn't infect 11 
+93 didn't infect 57 because already vaccinated 
+93 didn't infect 59 
+93 didn't infect 85 
+93 didn't infect 3 
+93 didn't infect 41 because already vaccinated 
+93 didn't infect 27 
+93 didn't infect 33 
+93 didn't infect 76 
+93 didn't infect 35 
+93 didn't infect 66 
+93 didn't infect 10 because already vaccinated 
+93 didn't infect 52 
+93 didn't infect 97 because already sick 
+93 didn't infect 60 
+93 didn't infect 62 
+93 didn't infect 2 because already vaccinated 
+93 didn't infect 28 
+93 didn't infect 31 
+93 didn't infect 74 
+93 didn't infect 70 
+93 didn't infect 54 
+93 didn't infect 70 
+93 didn't infect 89 
+93 didn't infect 39 
+93 didn't infect 15 
+93 didn't infect 40 because already vaccinated 
+93 didn't infect 68 
+93 didn't infect 88 because already vaccinated 
+93 didn't infect 27 
+93 didn't infect 35 
+93 didn't infect 97 
+93 didn't infect 36 
+93 didn't infect 24 
+93 didn't infect 46 because already vaccinated 
+93 didn't infect 1 
+93 didn't infect 16 
+93 didn't infect 6 
+93 didn't infect 89 
+93 didn't infect 81 
+93 didn't infect 62 because already vaccinated 
+93 didn't infect 1 
+93 didn't infect 60 
+93 didn't infect 43 because already vaccinated 
+93 didn't infect 6 
+93 didn't infect 61 because already vaccinated 
+93 didn't infect 8 
+93 didn't infect 9 
+93 didn't infect 87 because already vaccinated 
+93 didn't infect 19 
+93 didn't infect 38 because already vaccinated 
+94 didn't infect 31 because already vaccinated 
+94 didn't infect 97 
+94 didn't infect 76 
+94 didn't infect 28 
+94 didn't infect 48 
+94 didn't infect 56 
+94 didn't infect 75 
+94 didn't infect 39 
+94 didn't infect 7 
+94 didn't infect 94 because already sick 
+94 didn't infect 97 because already sick 
+94 didn't infect 27 
+94 didn't infect 10 because already vaccinated 
+94 didn't infect 22 
+94 didn't infect 20 because already vaccinated 
+94 didn't infect 57 
+94 didn't infect 60 
+94 didn't infect 29 
+94 didn't infect 36 
+94 didn't infect 58 because already vaccinated 
+94 didn't infect 29 
+94 didn't infect 80 
+94 didn't infect 25 
+94 didn't infect 69 because already vaccinated 
+94 didn't infect 19 
+94 didn't infect 18 because already vaccinated 
+94 didn't infect 21 
+94 didn't infect 76 
+94 didn't infect 72 
+94 didn't infect 56 because already vaccinated 
+94 didn't infect 88 
+94 didn't infect 51 
+94 didn't infect 64 
+94 didn't infect 56 because already vaccinated 
+94 didn't infect 5 
+94 didn't infect 94 
+94 didn't infect 32 because already vaccinated 
+94 didn't infect 29 
+94 didn't infect 73 
+94 didn't infect 2 
+94 didn't infect 86 
+94 didn't infect 73 because already vaccinated 
+94 didn't infect 96 because already sick 
+94 didn't infect 66 
+94 didn't infect 35 because already vaccinated 
+94 didn't infect 74 
+94 didn't infect 62 
+94 didn't infect 60 
+94 didn't infect 42 
+94 didn't infect 13 
+94 didn't infect 42 
+94 didn't infect 63 
+94 didn't infect 51 
+94 didn't infect 70 because already vaccinated 
+94 didn't infect 11 
+94 didn't infect 41 because already vaccinated 
+94 didn't infect 98 
+94 didn't infect 65 
+94 didn't infect 0 
+94 didn't infect 69 
+94 didn't infect 6 because already vaccinated 
+94 didn't infect 46 
+94 didn't infect 63 
+94 didn't infect 97 because already sick 
+94 didn't infect 34 
+94 didn't infect 36 
+94 didn't infect 89 
+94 didn't infect 3 
+94 didn't infect 77 
+94 didn't infect 90 because already sick 
+94 didn't infect 70 because already vaccinated 
+94 didn't infect 52 because already vaccinated 
+94 didn't infect 14 
+94 didn't infect 15 
+94 didn't infect 19 
+94 didn't infect 91 
+94 didn't infect 90 
+94 didn't infect 61 
+94 didn't infect 31 
+94 didn't infect 18 
+94 didn't infect 76 
+94 didn't infect 17 
+94 didn't infect 35 
+94 didn't infect 53 
+94 didn't infect 64 
+94 didn't infect 0 
+94 didn't infect 38 
+94 didn't infect 74 
+94 didn't infect 62 
+94 didn't infect 57 
+94 didn't infect 44 
+94 didn't infect 97 
+94 didn't infect 58 
+94 didn't infect 24 
+94 didn't infect 30 
+94 didn't infect 29 
+94 didn't infect 52 because already vaccinated 
+94 didn't infect 95 
+94 didn't infect 48 
+94 didn't infect 84 
+95 didn't infect 83 
+95 didn't infect 63 
+95 didn't infect 16 
+95 didn't infect 75 
+95 didn't infect 12 
+95 didn't infect 56 because already vaccinated 
+95 didn't infect 58 because already vaccinated 
+95 didn't infect 18 
+95 didn't infect 83 
+95 didn't infect 9 
+95 didn't infect 33 
+95 didn't infect 88 
+95 didn't infect 10 
+95 didn't infect 86 
+95 didn't infect 48 
+95 didn't infect 80 
+95 didn't infect 97 
+95 didn't infect 69 because already vaccinated 
+95 didn't infect 8 because already vaccinated 
+95 didn't infect 87 
+95 didn't infect 29 
+95 didn't infect 55 
+95 didn't infect 97 
+95 didn't infect 12 
+95 didn't infect 88 
+95 didn't infect 3 because already vaccinated 
+95 didn't infect 7 
+95 didn't infect 47 
+95 didn't infect 31 
+95 didn't infect 72 
+95 didn't infect 23 because already vaccinated 
+95 didn't infect 10 
+95 didn't infect 48 
+95 didn't infect 30 
+95 didn't infect 74 because already vaccinated 
+95 didn't infect 59 
+95 didn't infect 58 
+95 didn't infect 1 
+95 didn't infect 59 
+95 didn't infect 86 
+95 didn't infect 9 
+95 didn't infect 44 
+95 didn't infect 38 
+95 didn't infect 54 
+95 didn't infect 58 
+95 didn't infect 25 
+95 didn't infect 61 because already vaccinated 
+95 didn't infect 48 
+95 didn't infect 73 
+95 didn't infect 89 
+95 didn't infect 84 
+95 didn't infect 1 
+95 didn't infect 87 
+95 didn't infect 6 
+95 didn't infect 95 
+95 didn't infect 36 
+95 didn't infect 29 
+95 didn't infect 45 because already vaccinated 
+95 didn't infect 24 
+95 didn't infect 86 
+95 didn't infect 98 
+95 didn't infect 17 
+95 didn't infect 80 
+95 didn't infect 39 
+95 didn't infect 4 
+95 didn't infect 93 because already sick 
+95 didn't infect 37 
+95 didn't infect 53 because already vaccinated 
+95 didn't infect 16 
+95 didn't infect 46 
+95 didn't infect 34 
+95 didn't infect 32 
+95 didn't infect 61 
+95 didn't infect 37 
+95 didn't infect 43 
+95 didn't infect 59 
+95 didn't infect 18 
+95 didn't infect 28 
+95 didn't infect 92 
+95 didn't infect 50 
+95 didn't infect 71 
+95 didn't infect 50 because already vaccinated 
+95 didn't infect 68 because already vaccinated 
+95 didn't infect 47 
+95 didn't infect 86 
+95 didn't infect 48 
+95 didn't infect 47 because already vaccinated 
+95 didn't infect 29 
+95 didn't infect 79 
+95 didn't infect 71 
+95 didn't infect 78 because already vaccinated 
+95 didn't infect 8 
+95 didn't infect 59 
+95 didn't infect 38 
+95 didn't infect 14 because already vaccinated 
+95 didn't infect 4 
+95 didn't infect 63 because already vaccinated 
+95 didn't infect 30 
+95 didn't infect 17 
+95 didn't infect 47 
+96 didn't infect 95 
+96 didn't infect 69 
+96 didn't infect 95 
+96 didn't infect 53 
+96 didn't infect 62 
+96 didn't infect 35 because already vaccinated 
+96 didn't infect 47 because already vaccinated 
+96 didn't infect 56 
+96 didn't infect 46 because already vaccinated 
+96 didn't infect 87 
+96 didn't infect 82 
+96 didn't infect 50 
+96 didn't infect 15 
+96 didn't infect 58 because already vaccinated 
+96 didn't infect 27 
+96 didn't infect 76 
+96 didn't infect 6 
+96 didn't infect 31 
+96 didn't infect 72 because already vaccinated 
+96 didn't infect 97 
+96 didn't infect 75 because already vaccinated 
+96 didn't infect 29 
+96 didn't infect 18 
+96 didn't infect 76 because already vaccinated 
+96 didn't infect 18 
+96 didn't infect 69 
+96 didn't infect 22 because already vaccinated 
+96 didn't infect 3 because already vaccinated 
+96 didn't infect 45 
+96 didn't infect 30 
+96 didn't infect 2 because already vaccinated 
+96 didn't infect 6 because already vaccinated 
+96 didn't infect 53 
+96 didn't infect 95 because already sick 
+96 didn't infect 57 
+96 didn't infect 65 
+96 didn't infect 57 
+96 didn't infect 78 because already vaccinated 
+96 didn't infect 84 
+96 didn't infect 58 
+96 didn't infect 3 because already vaccinated 
+96 didn't infect 61 
+96 didn't infect 54 
+96 didn't infect 62 
+96 didn't infect 56 because already vaccinated 
+96 didn't infect 10 
+96 didn't infect 18 because already vaccinated 
+96 didn't infect 35 
+96 didn't infect 74 
+96 didn't infect 41 
+96 didn't infect 76 
+96 didn't infect 58 
+96 didn't infect 55 because already vaccinated 
+96 didn't infect 89 because already vaccinated 
+96 didn't infect 83 
+96 didn't infect 98 
+96 didn't infect 27 
+96 didn't infect 29 
+96 didn't infect 58 
+96 didn't infect 93 because already sick 
+96 didn't infect 54 
+96 didn't infect 32 
+96 didn't infect 19 
+96 didn't infect 60 because already vaccinated 
+96 didn't infect 10 because already vaccinated 
+96 didn't infect 12 
+96 didn't infect 47 
+96 didn't infect 71 because already vaccinated 
+96 didn't infect 71 
+96 didn't infect 85 because already vaccinated 
+96 didn't infect 45 
+96 didn't infect 96 
+96 didn't infect 92 because already sick 
+96 didn't infect 36 
+96 didn't infect 45 because already vaccinated 
+96 didn't infect 64 because already vaccinated 
+96 didn't infect 84 
+96 didn't infect 13 
+96 didn't infect 71 
+96 didn't infect 97 
+96 didn't infect 28 
+96 didn't infect 71 
+96 didn't infect 79 
+96 didn't infect 82 
+96 didn't infect 77 
+96 didn't infect 88 
+96 didn't infect 23 
+96 didn't infect 97 
+96 didn't infect 43 
+96 didn't infect 23 
+96 didn't infect 72 
+96 didn't infect 8 because already vaccinated 
+96 didn't infect 81 
+96 didn't infect 11 
+96 didn't infect 27 
+96 didn't infect 58 
+96 didn't infect 47 
+96 didn't infect 41 
+96 didn't infect 72 
+96 didn't infect 6 because already vaccinated 
+97 didn't infect 96 
+97 didn't infect 86 because already vaccinated 
+97 didn't infect 56 
+97 didn't infect 62 
+97 didn't infect 53 
+97 didn't infect 96 
+97 didn't infect 44 
+97 didn't infect 36 
+97 didn't infect 75 
+97 didn't infect 85 
+97 didn't infect 28 
+97 didn't infect 76 because already vaccinated 
+97 didn't infect 26 
+97 didn't infect 27 
+97 didn't infect 97 
+97 didn't infect 41 because already vaccinated 
+97 didn't infect 63 
+97 didn't infect 22 because already vaccinated 
+97 didn't infect 68 
+97 didn't infect 64 
+97 didn't infect 85 
+97 didn't infect 9 
+97 didn't infect 94 because already sick 
+97 didn't infect 2 
+97 didn't infect 9 
+97 didn't infect 73 
+97 didn't infect 51 
+97 didn't infect 53 
+97 didn't infect 51 because already vaccinated 
+97 didn't infect 41 because already vaccinated 
+97 didn't infect 79 
+97 didn't infect 88 
+97 didn't infect 11 
+97 didn't infect 13 because already vaccinated 
+97 didn't infect 75 
+97 didn't infect 10 
+97 didn't infect 39 
+97 didn't infect 28 
+97 didn't infect 21 because already vaccinated 
+97 didn't infect 81 because already vaccinated 
+97 didn't infect 65 because already vaccinated 
+97 didn't infect 99 
+97 didn't infect 93 
+97 didn't infect 82 
+97 didn't infect 30 because already vaccinated 
+97 didn't infect 32 because already vaccinated 
+97 didn't infect 77 because already vaccinated 
+97 didn't infect 97 
+97 didn't infect 22 
+97 didn't infect 80 
+97 didn't infect 96 
+97 didn't infect 74 
+97 didn't infect 72 
+97 didn't infect 79 
+97 didn't infect 80 
+97 didn't infect 56 because already vaccinated 
+97 didn't infect 56 
+97 didn't infect 35 
+97 didn't infect 45 
+97 didn't infect 39 
+97 didn't infect 4 because already vaccinated 
+97 didn't infect 36 because already vaccinated 
+97 didn't infect 11 
+97 didn't infect 64 
+97 didn't infect 74 
+97 didn't infect 94 
+97 didn't infect 57 
+97 didn't infect 73 
+97 didn't infect 41 
+97 didn't infect 64 because already vaccinated 
+97 didn't infect 7 
+97 didn't infect 43 
+97 didn't infect 10 
+97 didn't infect 22 because already vaccinated 
+97 didn't infect 90 
+97 didn't infect 56 
+97 didn't infect 78 because already vaccinated 
+97 didn't infect 47 
+97 didn't infect 49 
+97 didn't infect 43 
+97 didn't infect 6 
+97 didn't infect 82 
+97 didn't infect 42 because already vaccinated 
+97 didn't infect 86 
+97 didn't infect 32 
+97 didn't infect 84 
+97 didn't infect 77 
+97 didn't infect 42 because already vaccinated 
+97 didn't infect 84 because already vaccinated 
+97 didn't infect 44 
+97 didn't infect 83 
+97 didn't infect 50 because already vaccinated 
+97 didn't infect 90 
+97 didn't infect 39 
+97 didn't infect 82 
+97 didn't infect 16 
+97 didn't infect 94 
+97 didn't infect 67 because already vaccinated 
+97 didn't infect 85 
+97 didn't infect 46 because already vaccinated 
+98 didn't infect 39 because already vaccinated 
+98 didn't infect 27 
+98 didn't infect 98 
+98 didn't infect 28 
+98 didn't infect 19 because already vaccinated 
+98 didn't infect 12 
+98 didn't infect 69 
+98 didn't infect 67 because already vaccinated 
+98 didn't infect 43 
+98 didn't infect 79 because already vaccinated 
+98 didn't infect 48 because already vaccinated 
+98 didn't infect 23 
+98 didn't infect 98 
+98 didn't infect 21 
+98 didn't infect 5 
+98 didn't infect 86 
+98 didn't infect 56 
+98 didn't infect 96 
+98 didn't infect 57 because already vaccinated 
+98 didn't infect 30 
+98 didn't infect 60 
+98 didn't infect 24 
+98 didn't infect 73 
+98 didn't infect 59 
+98 didn't infect 99 
+98 didn't infect 67 
+98 didn't infect 20 
+98 didn't infect 77 because already vaccinated 
+98 didn't infect 32 because already vaccinated 
+98 didn't infect 61 
+98 didn't infect 70 
+98 didn't infect 91 
+98 didn't infect 15 
+98 didn't infect 97 because already sick 
+98 didn't infect 57 
+98 didn't infect 18 
+98 didn't infect 11 
+98 didn't infect 28 
+98 didn't infect 44 
+98 didn't infect 53 because already vaccinated 
+98 didn't infect 64 
+98 didn't infect 49 
+98 didn't infect 47 because already vaccinated 
+98 didn't infect 40 
+98 didn't infect 91 
+98 didn't infect 18 because already vaccinated 
+98 didn't infect 36 
+98 didn't infect 60 
+98 didn't infect 17 
+98 didn't infect 60 
+98 didn't infect 0 
+98 didn't infect 2 
+98 didn't infect 19 
+98 didn't infect 93 
+98 didn't infect 54 because already vaccinated 
+98 didn't infect 36 because already vaccinated 
+98 didn't infect 15 because already vaccinated 
+98 didn't infect 53 
+98 didn't infect 79 
+98 didn't infect 14 
+98 didn't infect 63 
+98 didn't infect 2 
+98 didn't infect 73 because already vaccinated 
+98 didn't infect 18 
+98 didn't infect 0 
+98 didn't infect 30 
+98 didn't infect 23 
+98 didn't infect 10 
+98 didn't infect 46 because already vaccinated 
+98 didn't infect 67 
+98 didn't infect 64 
+98 didn't infect 49 
+98 didn't infect 5 
+98 didn't infect 47 
+98 didn't infect 2 
+98 didn't infect 8 
+98 didn't infect 93 
+98 didn't infect 13 
+98 didn't infect 94 
+98 didn't infect 17 because already vaccinated 
+98 didn't infect 69 
+98 didn't infect 82 because already vaccinated 
+98 didn't infect 99 
+98 didn't infect 89 
+98 didn't infect 23 
+98 didn't infect 8 
+98 didn't infect 58 because already vaccinated 
+98 didn't infect 25 because already vaccinated 
+98 didn't infect 25 
+98 didn't infect 40 
+98 didn't infect 65 
+98 didn't infect 69 
+98 didn't infect 4 
+98 didn't infect 24 
+98 didn't infect 99 because already sick 
+98 didn't infect 83 
+98 didn't infect 15 
+98 didn't infect 55 
+98 didn't infect 95 
+98 didn't infect 49 
+99 didn't infect 23 
+99 didn't infect 63 
+99 didn't infect 66 
+99 didn't infect 10 
+99 didn't infect 10 
+99 didn't infect 23 
+99 didn't infect 41 because already vaccinated 
+99 didn't infect 41 
+99 didn't infect 39 
+99 didn't infect 91 
+99 didn't infect 88 
+99 didn't infect 57 because already vaccinated 
+99 didn't infect 45 
+99 didn't infect 55 
+99 didn't infect 7 because already vaccinated 
+99 didn't infect 81 
+99 didn't infect 65 
+99 didn't infect 86 because already vaccinated 
+99 didn't infect 3 because already vaccinated 
+99 didn't infect 77 
+99 didn't infect 56 because already vaccinated 
+99 didn't infect 8 because already vaccinated 
+99 didn't infect 82 
+99 didn't infect 49 
+99 didn't infect 4 
+99 didn't infect 86 
+99 didn't infect 47 
+99 didn't infect 97 because already sick 
+99 didn't infect 17 
+99 didn't infect 50 
+99 didn't infect 35 because already vaccinated 
+99 didn't infect 14 because already vaccinated 
+99 didn't infect 23 
+99 didn't infect 49 
+99 didn't infect 15 
+99 didn't infect 33 
+99 didn't infect 27 
+99 didn't infect 36 
+99 didn't infect 62 because already vaccinated 
+99 didn't infect 17 
+99 didn't infect 57 because already vaccinated 
+99 didn't infect 91 
+99 didn't infect 11 
+99 didn't infect 40 
+99 didn't infect 90 because already sick 
+99 didn't infect 69 
+99 didn't infect 38 
+99 didn't infect 91 
+99 didn't infect 89 
+99 didn't infect 46 
+99 didn't infect 15 
+99 didn't infect 17 because already vaccinated 
+99 didn't infect 63 because already vaccinated 
+99 didn't infect 70 
+99 didn't infect 59 
+99 didn't infect 70 because already vaccinated 
+99 didn't infect 11 because already vaccinated 
+99 didn't infect 50 
+99 didn't infect 92 
+99 didn't infect 52 
+99 didn't infect 73 because already vaccinated 
+99 didn't infect 40 
+99 didn't infect 57 
+99 didn't infect 66 
+99 didn't infect 99 
+99 didn't infect 75 because already vaccinated 
+99 didn't infect 16 
+99 didn't infect 7 
+99 didn't infect 66 because already vaccinated 
+99 didn't infect 21 because already vaccinated 
+99 didn't infect 90 because already sick 
+99 didn't infect 66 
+99 didn't infect 10 
+99 didn't infect 81 
+99 didn't infect 35 because already vaccinated 
+99 didn't infect 38 
+99 didn't infect 11 
+99 didn't infect 21 
+99 didn't infect 74 because already vaccinated 
+99 didn't infect 84 
+99 didn't infect 77 
+99 didn't infect 72 because already vaccinated 
+99 didn't infect 3 because already vaccinated 
+99 didn't infect 82 
+99 didn't infect 33 
+99 didn't infect 98 
+99 didn't infect 79 
+99 didn't infect 63 
+99 didn't infect 69 
+99 didn't infect 38 
+99 didn't infect 87 
+99 didn't infect 58 because already vaccinated 
+99 didn't infect 7 because already vaccinated 
+99 didn't infect 53 
+99 didn't infect 26 
+99 didn't infect 18 
+99 didn't infect 91 
+99 didn't infect 44 
+99 didn't infect 16 
+99 didn't infect 65 
+90 died from infection
+91 died from infection
+92 died from infection
+93 died from infection
+94 died from infection
+95 died from infection
+96 died from infection
+97 died from infection
+98 died from infection
+99 survived infection
+Time step 0 ended, beginning 1
